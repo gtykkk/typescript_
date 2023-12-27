@@ -85,8 +85,8 @@ function 최대값(...a : number[]) {
 // 함수 ( [40, 'wine', false ])
 type array = (number | string | boolean)[];
 
-function 함수([변수1, 변수2, 변수3] : array) {
-    console.log(변수1, 변수2, 변수3);
-}
+// function 함수([변수1, 변수2, 변수3] : array) {
+//     console.log(변수1, 변수2, 변수3);
+// }
 
-함수 ( [ 40, 'wine', false ]);
+// 함수 ( [ 40, 'wine', false ]);

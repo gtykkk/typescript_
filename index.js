@@ -55,8 +55,7 @@ function 최대값() {
     // console.log(최대);
 }
 최대값(15, 2, 3, 4, 6, 1, 10);
-function 함수(_a) {
-    var 변수1 = _a[0], 변수2 = _a[1], 변수3 = _a[2];
-    console.log(변수1, 변수2, 변수3);
-}
-함수([40, 'wine', false]);
+// function 함수([변수1, 변수2, 변수3] : array) {
+//     console.log(변수1, 변수2, 변수3);
+// }
+// 함수 ( [ 40, 'wine', false ]);
